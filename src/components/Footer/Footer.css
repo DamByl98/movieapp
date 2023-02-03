@@ -1,0 +1,14 @@
+.footer{
+    margin-bottom: 0;
+    background-color: #15253f;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #DDDEE5;
+    flex-direction: column;
+}
+
+.avatar{
+    width: 10px;
+}
